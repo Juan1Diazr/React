@@ -1,3 +1,4 @@
+
 export default function Boton({texto,onClick}){
     const handleClick = () => {
         console.log('Texto del Boton',texto);
