@@ -95,9 +95,6 @@ export default function Home() {
 }
 ```
 
-<p align="center">
-  <img src="public/window.svg" alt="Vista principal" width="350"/>
-</p>
 
 ---
 
@@ -127,9 +124,6 @@ export default function Boton({ texto, onClick }) {
 }
 ```
 
-<p align="center">
-  <img src="public/file.svg" alt="Botón" width="120"/>
-</p>
 
 ---
 
