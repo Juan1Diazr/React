@@ -15,11 +15,16 @@ export default function Navbar() {
       <Link href="/" style={{ color: 'white', textDecoration: 'none' }}>
         Home
       </Link>
-      <Link href="/lista" style={{ color: 'white', textDecoration: 'none' }}>
-        Listas básicas
-      </Link>
+      
       <Link href="/productos" style={{ color: 'white', textDecoration: 'none' }}>
-        Productos API
+        Productos Estaticos
+      </Link>
+      <Link href="/tareas" style={{ color: 'white', textDecoration: 'none' }}>
+      Lista Tareas
+      </Link>
+
+      <Link href="/productos-api" style={{ color: 'white', textDecoration: 'none' }}>
+      Productos API
       </Link>
     </nav>
   );
